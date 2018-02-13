@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "dev": "supervisor ./server.js"
+  },
+  "dependencies": {
+  }
+}
